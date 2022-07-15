@@ -1,0 +1,12 @@
+PROGRAMA CONTADOR DEL 1 AL 100
+------------------------------
+
+
+10 PRINT CHR$(147)
+20 I=0
+30 FOR I=1 TO 100
+40 PRINT I
+50 NEXT I
+
+
+FIN DEL CODIGO
